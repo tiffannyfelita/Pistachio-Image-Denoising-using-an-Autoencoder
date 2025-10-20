@@ -1,7 +1,8 @@
 # 🥜 Pistachio Image Denoising using Autoencoder and U-Net
 
 ## Project Overview
-This project focuses on **image denoising** using deep learning to restore clean pistachio images corrupted by Gaussian noise (μ = 0.0, σ = 0.1).  
+This project is the **final project** for the course and successfully achieved a **perfect score**.  
+It focuses on **image denoising** using deep learning to restore clean pistachio images corrupted by Gaussian noise (μ = 0.0, σ = 0.1).  
 A **Convolutional Autoencoder** is used as the **Baseline Model**, while a **U-Net Autoencoder** is implemented as an enhanced model to achieve higher reconstruction quality.  
 Model performance is evaluated using the **Structural Similarity Index (SSIM)**.
 
